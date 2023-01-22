@@ -7,6 +7,7 @@ public class GuessMyNumber {
         Scanner scan = new Scanner(System.in);
         String response;
 
+        do {
             int mid = (first+Subn)/2;
 
             System.out.println("INSTRUCTIONS: Please enter C for correct, H for too high, or L for too low.");
@@ -14,7 +15,7 @@ public class GuessMyNumber {
             System.out.println("Enter your response (H/L/C) :");
 
             response = scan.nextLine();
-        do {
+
 
 
             if (response.equals("L")) {
@@ -25,7 +26,7 @@ public class GuessMyNumber {
             }
             if (response.equals("C")) {
                 System.out.println("Your number is " + mid + "!");
-
+                break;
             }
         }while(response != "C");
 
