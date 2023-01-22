@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9e14de4-712d-40dd-88bf-78452ccc4b29" name="Changes" comment="y" />
+    <list default="true" id="e9e14de4-712d-40dd-88bf-78452ccc4b29" name="Changes" comment="Y">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PersonalizedHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonalizedHelloWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8e6d760b-d45c-4c0b-9a44-c8a2aacad945" />
+        <option name="url" value="https://github.com/jprodriguez33/Lab1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,12 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1674274743679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Y">
+      <created>1674274870222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674274870222</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="y" />
-    <option name="LAST_COMMIT_MESSAGE" value="y" />
+    <MESSAGE value="Y" />
+    <option name="LAST_COMMIT_MESSAGE" value="Y" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
